@@ -1,0 +1,13 @@
+C:\Users\David\RiderProjects\Shogun\Shogun\bin\Debug\netcoreapp3.1\Shogun.exe
+C:\Users\David\RiderProjects\Shogun\Shogun\bin\Debug\netcoreapp3.1\Shogun.deps.json
+C:\Users\David\RiderProjects\Shogun\Shogun\bin\Debug\netcoreapp3.1\Shogun.runtimeconfig.json
+C:\Users\David\RiderProjects\Shogun\Shogun\bin\Debug\netcoreapp3.1\Shogun.runtimeconfig.dev.json
+C:\Users\David\RiderProjects\Shogun\Shogun\bin\Debug\netcoreapp3.1\Shogun.dll
+C:\Users\David\RiderProjects\Shogun\Shogun\bin\Debug\netcoreapp3.1\Shogun.pdb
+C:\Users\David\RiderProjects\Shogun\Shogun\obj\Debug\netcoreapp3.1\Shogun.csprojAssemblyReference.cache
+C:\Users\David\RiderProjects\Shogun\Shogun\obj\Debug\netcoreapp3.1\Shogun.AssemblyInfoInputs.cache
+C:\Users\David\RiderProjects\Shogun\Shogun\obj\Debug\netcoreapp3.1\Shogun.AssemblyInfo.cs
+C:\Users\David\RiderProjects\Shogun\Shogun\obj\Debug\netcoreapp3.1\Shogun.csproj.CoreCompileInputs.cache
+C:\Users\David\RiderProjects\Shogun\Shogun\obj\Debug\netcoreapp3.1\Shogun.dll
+C:\Users\David\RiderProjects\Shogun\Shogun\obj\Debug\netcoreapp3.1\Shogun.pdb
+C:\Users\David\RiderProjects\Shogun\Shogun\obj\Debug\netcoreapp3.1\Shogun.genruntimeconfig.cache

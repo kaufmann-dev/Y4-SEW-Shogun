@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\David\.nuget\packages\microsoft.net.test.sdk\16.4.0\build\netcoreapp2.1" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\David\.nuget\packages\microsoft.testplatform.testhost\16.4.0\build\netcoreapp2.1\x64\testhost.dll" t="Include" />
+    <e p="C:\Users\David\.nuget\packages\microsoft.testplatform.testhost\16.4.0\build\netcoreapp2.1\x64\testhost.exe" t="Include" />
+    <e p="C:\Users\David\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\nunit.engine.api.dll" t="Include" />
+    <e p="C:\Users\David\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\nunit.engine.dll" t="Include" />
+    <e p="C:\Users\David\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\NUnit3.TestAdapter.dll" t="Include" />
+    <e p="C:\Users\David\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\NUnit3.TestAdapter.pdb" t="Include" />
+    <e p="C:\Users\David\AppData\local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\David\AppData\local\JetBrains\Rider2020.3\resharper-host\local\Transient\Rider\v203\SolutionCaches\_Shogun.-164021651.00" t="ExcludeRecursive" />
+    <e p="C:\Users\David\RiderProjects\Shogun" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Shogun" t="IncludeRecursive">
+        <e p="AAshigaru.cs" t="Include" />
+        <e p="Army.cs" t="Include" />
+        <e p="ASamurai.cs" t="Include" />
+        <e p="AUnit.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Bowman.cs" t="Include" />
+        <e p="Dice.cs" t="Include" />
+        <e p="Gunner.cs" t="Include" />
+        <e p="Horseman.cs" t="Include" />
+        <e p="KillerMachine.cs" t="Include" />
+        <e p="Logger.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Shogun.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Shogun.csproj" t="IncludeRecursive" />
+        <e p="Spearman.cs" t="Include" />
+        <e p="Swordsman.cs" t="Include" />
+      </e>
+      <e p="Shogun.sln" t="IncludeFlat" />
+      <e p="TestProject1" t="IncludeRecursive">
+        <e p="Armytests.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="TestProject1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="TestProject1.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
