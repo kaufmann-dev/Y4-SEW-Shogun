@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shogun", "Shogun\Shogun.csproj", "{FAC59064-1BFA-4EF1-8EE6-FD8F12C80354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{5A4DC0E4-4536-496E-9ADA-B0D978D5F7B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAC59064-1BFA-4EF1-8EE6-FD8F12C80354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC59064-1BFA-4EF1-8EE6-FD8F12C80354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC59064-1BFA-4EF1-8EE6-FD8F12C80354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC59064-1BFA-4EF1-8EE6-FD8F12C80354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A4DC0E4-4536-496E-9ADA-B0D978D5F7B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A4DC0E4-4536-496E-9ADA-B0D978D5F7B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A4DC0E4-4536-496E-9ADA-B0D978D5F7B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A4DC0E4-4536-496E-9ADA-B0D978D5F7B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
